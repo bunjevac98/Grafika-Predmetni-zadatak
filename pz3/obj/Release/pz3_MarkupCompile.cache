@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\basic\Desktop\Grafika Predmetni projekat\RGProjekat\Grafika-\pz3\obj\Debug\
+C:\Users\basic\Desktop\Grafika Predmetni projekat\RGProjekat\Grafika-\pz3\obj\Release\
 pz3
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\basic\Desktop\Grafika Predmetni projekat\RGProjekat\Grafika-\pz3\App.xaml
 1219584333
 
@@ -16,5 +16,5 @@ C:\Users\basic\Desktop\Grafika Predmetni projekat\RGProjekat\Grafika-\pz3\App.xa
 13-38814620
 MainWindow.xaml;
 
-False
+True
 
